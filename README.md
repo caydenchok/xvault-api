@@ -1,19 +1,19 @@
-# XVault API - Ollama OpenAI-compatible API
+# 🚀 XVault API - Ollama OpenAI-compatible API
 
-A powerful, user-friendly FastAPI REST API that wraps local Ollama LLMs and provides a seamless OpenAI-compatible interface. Developed by Astra Gate Sdn. Bhd., based in Malaysia.
+A powerful, user-friendly FastAPI REST API that wraps local Ollama LLMs and provides a seamless OpenAI-compatible interface. Developed by Astra Gate Sdn. Bhd., based in Malaysia. ✨
 
-## What Makes XVault API Special
+## ✨ What Makes XVault API Special
 
 XVault API stands out from other similar tools by focusing on:
 
-- **Simplicity First**: Clean, focused implementation that bridges Ollama and OpenAI's API format without unnecessary complexity
-- **User-Friendly Experience**: Streamlined setup process with intuitive command-line interface
-- **Secure Token Management**: Add and manage API tokens directly through command-line arguments
-- **Interactive Testing**: Built-in interactive client for immediate testing and experimentation
-- **Comprehensive Error Handling**: Detailed logging and error reporting for easy troubleshooting
-- **Educational Value**: Clean, well-commented code that serves as a learning resource
+- 🎯 **Simplicity First**: Clean, focused implementation that bridges Ollama and OpenAI's API format without unnecessary complexity
+- 🙂 **User-Friendly Experience**: Streamlined setup process with intuitive command-line interface
+- 🔒 **Secure Token Management**: Add and manage API tokens directly through command-line arguments
+- 🧪 **Interactive Testing**: Built-in interactive client for immediate testing and experimentation
+- 🛡️ **Comprehensive Error Handling**: Detailed logging and error reporting for easy troubleshooting
+- 📚 **Educational Value**: Clean, well-commented code that serves as a learning resource
 
-## How It Works
+## 🔄 How It Works
 
 XVault API acts as a bridge between your applications and local Ollama models:
 
@@ -34,20 +34,20 @@ This architecture allows you to:
 
 For more details, see [architecture.md](architecture.md).
 
-## Features
+## 🌟 Features
 
-- OpenAI-compatible `/v1/chat/completions` endpoint
-- Flexible token-based authentication with command-line management
-- CORS enabled for seamless frontend integration
-- Comprehensive request and response logging
-- Robust error handling with proper HTTP status codes
-- Interactive example client for testing and demonstration
+- 🔌 OpenAI-compatible `/v1/chat/completions` endpoint
+- 🔑 Flexible token-based authentication with command-line management
+- 🌐 CORS enabled for seamless frontend integration
+- 📊 Comprehensive request and response logging
+- ⚠️ Robust error handling with proper HTTP status codes
+- 💻 Interactive example client for testing and demonstration
 
-## Prerequisites
+## 📋 Prerequisites
 
-- Python 3.8+
-- [Ollama](https://github.com/ollama/ollama) installed and running locally
-- At least one model pulled in Ollama (e.g., `ollama pull llama2`)
+- 🐍 Python 3.8+
+- 🤖 [Ollama](https://github.com/ollama/ollama) installed and running locally
+- 🧠 At least one model pulled in Ollama (e.g., `ollama pull llama2`)
 
 ### Setting Up Models
 
@@ -66,9 +66,9 @@ python setup_models.py pull llama2
 
 This makes it easy to get started with the right models for your needs.
 
-## Quick Start
+## 🚀 Quick Start
 
-### The Easy Way (Recommended)
+### 🔥 The Easy Way (Recommended)
 
 1. Make sure Ollama is installed and running with at least one model
 2. Run the setup script:
@@ -494,16 +494,16 @@ If you encounter issues not covered here, please:
 2. Look for error messages in the API response
 3. Contact us using the information below
 
-## About Astra Gate Sdn. Bhd.
+## 🏢 About Astra Gate Sdn. Bhd.
 
-XVault API is developed and maintained by **Astra Gate Sdn. Bhd.**, a technology company based in Kota Kinabalu, Sabah, Malaysia. We specialize in developing innovative solutions that bridge the gap between cutting-edge AI technologies and practical, user-friendly applications.
+XVault API is developed and maintained by **Astra Gate Sdn. Bhd.**, a technology company based in Kota Kinabalu, Sabah, Malaysia. We specialize in developing innovative solutions that bridge the gap between cutting-edge AI technologies and practical, user-friendly applications. 🌉
 
-At Astra Gate, we believe in making advanced technology accessible to everyone. Our team combines deep technical expertise with a commitment to creating tools that are both powerful and easy to use.
+At Astra Gate, we believe in making advanced technology accessible to everyone. Our team combines deep technical expertise with a commitment to creating tools that are both powerful and easy to use. 💪
 
 For more information about our company and other projects, please contact us at:
 
-- **Email**: info@astragate.my
-- **Location**: Kota Kinabalu, Sabah, Malaysia
+- 📧 **Email**: info@astragate.my
+- 📍 **Location**: Kota Kinabalu, Sabah, Malaysia
 
 ## License
 
