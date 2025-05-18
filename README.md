@@ -505,10 +505,10 @@ For more information about our company and other projects, please contact us at:
 - 📧 **Email**: info@astragate.my
 - 📍 **Location**: Kota Kinabalu, Sabah, Malaysia
 
-## License
+## 📜 License
 
 [MIT License](LICENSE)
 
 ---
 
-*XVault API © 2023 Astra Gate Sdn. Bhd. All Rights Reserved.*
+*XVault API © 2025 Astra Gate Sdn. Bhd. All Rights Reserved.* ✨
