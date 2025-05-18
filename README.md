@@ -1,11 +1,13 @@
 # 🚀 XVault API - Ollama OpenAI-compatible API
 
-A powerful, user-friendly FastAPI REST API that wraps local Ollama LLMs and provides a seamless OpenAI-compatible interface. Developed by Astra Gate Sdn. Bhd., based in Malaysia. ✨
+A powerful, user-friendly FastAPI REST API that wraps local Ollama LLMs and provides a seamless OpenAI-compatible interface. **This tool enables you to run and scale LLMs locally while maintaining compatibility with OpenAI's API ecosystem.** Developed by Astra Gate Sdn. Bhd.✨
 
 ## ✨ What Makes XVault API Special
 
 XVault API stands out from other similar tools by focusing on:
 
+- 🚀 **LLM Scaling**: Run and scale your local LLMs with an API that can handle multiple concurrent requests
+- 🔄 **API Compatibility**: Seamlessly replace OpenAI API calls with your local models without changing your code
 - 🎯 **Simplicity First**: Clean, focused implementation that bridges Ollama and OpenAI's API format without unnecessary complexity
 - 🙂 **User-Friendly Experience**: Streamlined setup process with intuitive command-line interface
 - 🔒 **Secure Token Management**: Add and manage API tokens directly through command-line arguments
@@ -449,11 +451,21 @@ function ChatComponent() {
 }
 ```
 
-## Why Choose XVault API?
+## 🔥 Scaling Your LLMs
+
+XVault API is designed to help you scale your local LLM deployment:
+
+- **Load Balancing**: Handle multiple concurrent requests to your local LLMs
+- **Resource Management**: Configure resource allocation for optimal performance
+- **API Standardization**: Present a consistent API regardless of the underlying model
+- **Deployment Flexibility**: Run on a single machine or as part of a larger infrastructure
+- **Production Readiness**: Built with real-world usage patterns in mind
+
+## 💡 Why Choose XVault API?
 
 While there are several tools that provide OpenAI-compatible APIs for local LLMs, XVault API offers unique advantages:
 
-1. **Focused Design**: Unlike general-purpose tools that try to do everything, XVault API does one thing exceptionally well - providing an OpenAI-compatible interface for Ollama.
+1. **Focused Design**: Unlike general-purpose tools that try to do everything, XVault API does one thing exceptionally well - providing a scalable OpenAI-compatible interface for Ollama.
 
 2. **Minimal Learning Curve**: Get up and running in minutes with simple commands and clear documentation.
 
